@@ -30,11 +30,11 @@ open_ports = scan_ports(host, port_range)
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your_username/PortScanner.git
+    git clone https://github.com/skypointmedia/portscanner.git
     ```
 2. Navigate to the directory:
     ```bash
-    cd PortScanner
+    cd portscanner
     ```
 3. Install the required Python packages:
     ```bash
